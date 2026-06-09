@@ -1,4 +1,4 @@
-# SCFS: Subspace Clustering Unsupervised Feature Selection
+# SCFS: Subspace Clustering unsupervised Feature Selection
 
 [![Paper](https://img.shields.io/badge/Paper-EAAI%202020-blue)](https://doi.org/10.1016/j.engappai.2020.103855)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.engappai.2020.103855-green)](https://doi.org/10.1016/j.engappai.2020.103855)
