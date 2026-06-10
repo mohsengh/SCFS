@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: "SCFS: Subspace Clustering Unsupervised Feature Selection"
+message: "If you use this software, please cite the associated paper."
+type: software
+
+authors:
+
+* family-names: "Parsa"
+  given-names: "Mohsen Ghassemi"
+  orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+
+* family-names: "Zare"
+  given-names: "Hadi"
+
+* family-names: "Ghatee"
+  given-names: "Mehdi"
+
+repository-code: "https://github.com/mohsengh/SCFS"
+
+url: "https://github.com/mohsengh/SCFS"
+
+keywords:
+
+* Unsupervised Feature Selection
+* Feature Selection
+* Subspace Clustering
+* Machine Learning
+* Data Mining
+* Representation Learning
+* Dimensionality Reduction
+
+license: "MIT"
+
+preferred-citation:
+type: article
+authors:
+- family-names: "Parsa"
+given-names: "Mohsen Ghassemi"
+- family-names: "Zare"
+given-names: "Hadi"
+- family-names: "Ghatee"
+given-names: "Mehdi"
+
+title: "Unsupervised Feature Selection Based on Adaptive Similarity Learning and Subspace Clustering"
+
+journal: "Engineering Applications of Artificial Intelligence"
+
+year: 2020
+
+volume: 95
+
+start: 103855
+
+doi: "10.1016/j.engappai.2020.103855"
